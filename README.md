@@ -1,16 +1,14 @@
-# LocalHomePageXamppWindows
+# LocalHomePage
+for XAMPP for Windows
 
 
 
-for window for XAMPP
-XAMPP for windows
-
-
-Edit hosts file
 Download the code https://github.com/zeusintuivo/LocalHomePageXamppWindows
 and place it insde C:\xampp\apache\htdocs\
 
 # Hosts File
+
+Edit hosts file
 
 Modify the C:\Windows\System32\drivers\etc\hosts
 
