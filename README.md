@@ -8,7 +8,7 @@ and place it insde C:\xampp\apache\htdocs\
 
 # Hosts File
 
-Edit hosts file
+Edit hosts file as an administrator
 
 Modify the C:\Windows\System32\drivers\etc\hosts
 
