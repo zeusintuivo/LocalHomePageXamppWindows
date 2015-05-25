@@ -10,8 +10,9 @@ Edit hosts file
 Download the code https://github.com/zeusintuivo/LocalHomePageXamppWindows
 and place it insde C:\xampp\apache\htdocs\
 
+# Hosts File
 
-Modify the C:\Windows\System32\drivers\etc hosts
+Modify the C:\Windows\System32\drivers\etc\hosts
 
 like this
 
@@ -48,7 +49,7 @@ like this
 
 
 
-
+# Httpd.conf File
 
 
 Modify the 
@@ -628,13 +629,13 @@ Include "conf/extra/httpd-ajp.conf"
 
 
 
-
+# Virtual Hosts File
 
 
 
 Modify the C:\xampp\apache\conf\extra httpd-vhosts.conf
-
 like this
+
 ```
 # Virtual Hosts
 #
@@ -707,7 +708,7 @@ like this
 
 
 
-Restart APACHE
+# Restart APACHE
 From Control XAMPP CONTROL PANEL 
 
 
@@ -715,11 +716,10 @@ From Control XAMPP CONTROL PANEL
 
 
 
+# Config.php File
 
 
   Modify the C:\xampp\htdocs\config.php
-
-
   like this 
 
 
